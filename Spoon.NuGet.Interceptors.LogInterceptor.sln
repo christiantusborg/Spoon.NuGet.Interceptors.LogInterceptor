@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spoon.NuGet.Interceptors.LogInterceptor", "Spoon.NuGet.Interceptors.LogInterceptor\Spoon.NuGet.Interceptors.LogInterceptor.csproj", "{AF966BF1-37F5-4DE4-AB23-DE9871BFC862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF966BF1-37F5-4DE4-AB23-DE9871BFC862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF966BF1-37F5-4DE4-AB23-DE9871BFC862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF966BF1-37F5-4DE4-AB23-DE9871BFC862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF966BF1-37F5-4DE4-AB23-DE9871BFC862}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
